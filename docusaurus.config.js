@@ -80,7 +80,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/commerceblock/mercurylayer',
+            href: 'https://github.com/mercury-layer/mercurylayer',
             label: 'GitHub',
             position: 'right',
           },
@@ -112,7 +112,6 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Commerceblock.`,
       },
       prism: {
         theme: prismThemes.github,
